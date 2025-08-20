@@ -1,4 +1,4 @@
 package com.example.projectcurrencyconverterapi2;
 
-public class ExchangeRateService {
+public interface ExchangeRateService {
 }
