@@ -3,9 +3,9 @@
 
 
 ### Tópicos
-* [Descrição](#Descrição)
-* [Funcionalidades](#Funcionalidades)
-* [Autores](#Autores)
+* [Descrição](#descrição)
+* [Funcionalidades](#funcionalidades)
+* [Autores](#autores)
 
 ## Descrição
 ## Funcionalidades
