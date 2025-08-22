@@ -4,20 +4,31 @@
 
 ### Tópicos
 * [Descrição](#descrição)
+* [Tecnologias](#tecnologias)
 * [Funcionalidades](#funcionalidades)
+* [Estrutura do projeto](#estrutura-do-projeto)
 * [Autores](#autores)
 * [Referências](#referências)
 
 ## Descrição
 <p>ProjectCurrencyConverterAPI é um app que oferece como função a conversão de moedas em tempo real.</p>
 <p>Esse projeto está sendo desenvolvido na sede do Senac Londrina norte, sob tutoria do professor <a href="https://github.com/leonardossrocha">Leonardo Rocha</a>.</p>
-<p></p>
+<p>Utilizamos para o desenvolvimento comandos git, como: </p>
 
-## Funcionalidades
-
-## Ferramentas
+## Tecnologias
 <li>ExchangeRate API</li>
 <li>Android Studio</li>
+
+## Funcionalidades
+<li><b>Consulta de taxas de câmbio</b>: Busca taxas de câmbio em tempo real entre diferentes moedas.</li>
+<li><b>Conversão de moedas</b>: Converte valores monetários com base nas taxas atuais.</li>
+<li><b>Integração via HTTP</b>: Realiza requisições HTTP à API ExchangeRate.</li>
+
+## Estrutura do projeto
+<li><b>ExchangeRatesResponse.java</b>: Modelo de dados que representa a resposta JSON da API.</li>
+<li><b>RetrofitCliente.java</b>: Classe responsável por configurar e fornecer uma instância Retrofit.</li>
+<li><b>MainActivity.java</b>: É a classe que representa a atividade principal do aplicativo Android.</li>
+<li><b>ExchangeRateService.java</b>: Responsável pela Interface do projeto.</li>
 
 ## Autores
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/180124583?v=4" width=115><br><sub>Letícia Feitoza</sub>](https://github.com/LmayuXD)|
