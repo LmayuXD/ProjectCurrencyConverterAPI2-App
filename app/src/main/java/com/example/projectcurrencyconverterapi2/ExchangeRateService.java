@@ -10,11 +10,11 @@ public interface ExchangeRateService {
      * método para obter taxas de câmbio recentes
      */
 
-    $GET("/vó/{apiKey}/latest/{baseCurrency}")
+    @GET("/vó/{apiKey}/latest/{baseCurrency}")
     Call<ExchangeRatesResponse> getExchangeRates(
             @Path("apiKey") String apiKey,
             // Substitui {apiKey} na URL com valor fornecido.
-            @Path("baseCurrency") String baseCurrency,
+            @Path("baseCurrency") String baseCurrency
             // Substitui {baseCurrency} na URL com valor fornecido
     );
 }
