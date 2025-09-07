@@ -2,7 +2,7 @@
 # ProjectCurrencyConverterAPI-App
 
 
-### Tópicos
+### Topics:
 * [Description](#description)
 * [Tecnologias](#tecnologias)
 * [Funcionalidades](#funcionalidades)
