@@ -3,18 +3,18 @@
 
 
 ### Tópicos
-* [Descrição](#descrição)
+* [Description](#description)
 * [Tecnologias](#tecnologias)
 * [Funcionalidades](#funcionalidades)
 * [Estrutura do projeto](#estrutura-do-projeto)
 * [Autores](#autores)
 * [Referências](#referências)
 
-## Descrição
-<p>ProjectCurrencyConverterAPI é um app que oferece como função a conversão de moedas em tempo real.</p>
-<p>Esse projeto está sendo desenvolvido na sede do Senac Londrina norte, sob tutoria do professor <a href="https://github.com/leonardossrocha">Leonardo Rocha</a>.</p>
-<p>Utilizamos para o desenvolvimento do trabalho comandos git, como: <b>"git init"</b> para criar um repositório local vazio e utilizamos o <b>"git remote add origin"</b> para conectar o repositório local com o repositório remoto.</p>
-<p>Também utilizamos alguns comandos simples para lançar as atualizações do projeto no repositório local para o repositório remoto, como: 
+## Description
+<p>ProjectCurrencyConverterAPI it is an app whose function is the real time conversion of currencies.</p>
+<p>This project has been made at Senac Londrina North , with the help of Professor <a href="https://github.com/leonardossrocha">Leonardo Rocha</a>.</p>
+<p>We used some Git commands to develop the project. For example, we use <b>"git init"</b> to create an blank local repository, and <b>"git remote add origin"</b> to connect the local repository to the remote repository.</p>
+<p>We also used some simple commands to push updates from the local repository to the remote repository, such as: 
   <li><b>"git add"</b> para selecionar o arquivo à ser enviado;</li>
   <li><b>"git commit -m"</b> para adicionar uma mensagem descritiva sobre o/s arquivo/s selecionado/s;</li>
   <li><b>"git push"</b> envia os arquivos do repositório local para o repositório remoto;</li>
