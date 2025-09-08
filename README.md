@@ -5,7 +5,7 @@
 ### Topics:
 * [Description](#description)
 * [Technologies](#technologies)
-* [Funcionalidades](#funcionalidades)
+* [Functionalities](#functionalities)
 * [Estrutura do projeto](#estrutura-do-projeto)
 * [Autores](#autores)
 * [Referências](#referências)
@@ -24,10 +24,10 @@
 <li>ExchangeRate API</li>
 <li>Android Studio</li>
 
-## Funcionalidades
-<li><b>Consulta de taxas de câmbio</b>: Busca taxas de câmbio em tempo real entre diferentes moedas.</li>
-<li><b>Conversão de moedas</b>: Converte valores monetários com base nas taxas atuais.</li>
-<li><b>Integração via HTTP</b>: Realiza requisições HTTP à API ExchangeRate.</li>
+## Functionalities
+<li><b>Made the queries of the exchange rates</b>: Search for exchange rates in real time between different types of currencies.</li>
+<li><b>Currency conversion</b>: Convert currency values using real time rates.</li>
+<li><b>HTTP Integration</b>: Send HTTP requests to the ExchangeRate API.</li>
 
 ## Estrutura do projeto
 <li><b>ExchangeRatesResponse.java</b>: Modelo de dados que representa a resposta JSON da API.</li>
