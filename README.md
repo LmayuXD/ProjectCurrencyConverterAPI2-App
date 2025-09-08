@@ -4,7 +4,7 @@
 
 ### Topics:
 * [Description](#description)
-* [Tecnologias](#tecnologias)
+* [Technologies](#technologies)
 * [Funcionalidades](#funcionalidades)
 * [Estrutura do projeto](#estrutura-do-projeto)
 * [Autores](#autores)
@@ -20,7 +20,7 @@
   <li><b>"git push"</b> -> Send the files from the local repository to the remote repository;</li>
   <li><b>"git pull"</b> -> Retrieve the files from the remote repository and send them to the local repository.</li></p>
 
-## Tecnologias
+## Technologies
 <li>ExchangeRate API</li>
 <li>Android Studio</li>
 
