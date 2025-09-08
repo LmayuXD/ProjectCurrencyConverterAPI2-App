@@ -6,9 +6,9 @@
 * [Description](#description)
 * [Technologies](#technologies)
 * [Functionalities](#functionalities)
-* [Estrutura do projeto](#estrutura-do-projeto)
-* [Autores](#autores)
-* [Referências](#referências)
+* [Project Structure](#project-structure)
+* [Authors](#authors)
+* [References](#references)
 
 ## Description
 <p>ProjectCurrencyConverterAPI it is an app whose function is the real time conversion of currencies.</p>
@@ -29,17 +29,17 @@
 <li><b>Currency conversion</b>: Convert currency values using real time rates.</li>
 <li><b>HTTP Integration</b>: Send HTTP requests to the ExchangeRate API.</li>
 
-## Estrutura do projeto
-<li><b>ExchangeRatesResponse.java</b>: Modelo de dados que representa a resposta JSON da API.</li>
-<li><b>RetrofitCliente.java</b>: Classe responsável por configurar e fornecer uma instância Retrofit.</li>
-<li><b>MainActivity.java</b>: É a classe que representa a atividade principal do aplicativo Android.</li>
-<li><b>ExchangeRateService.java</b>: Responsável pela Interface do projeto.</li>
+## Project Structure
+<li><b>ExchangeRatesResponse.java</b>: Data model that represents the JSON reponse from the API.</li>
+<li><b>RetrofitCliente.java</b> A class responsible for configuring and providing an instance of Retrofit.</li>
+<li><b>MainActivity.java</b>: It is a class that represents the main activity of the Android application.</li>
+<li><b>ExchangeRateService.java</b>: Responsible for the interface of the project.</li>
 
-## Autores
+## Authors
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/180124583?v=4" width=115><br><sub>Letícia Feitoza</sub>](https://github.com/LmayuXD)|
 | :---: |
 
-## Referências 
+## References 
 <li><a href="https://www.alura.com.br/artigos/escrever-bom-readme?utm_term=&utm_campaign=topo-aon-search-gg-dsa-artigos_conteudos&utm_source=google&utm_medium=cpc&campaign_id=11384329873_164240702375_703829337057&utm_id=11384329873_164240702375_703829337057&hsa_acc=7964138385&hsa_cam=topo-aon-search-gg-dsa-artigos_conteudos&hsa_grp=164240702375&hsa_ad=703829337057&hsa_src=g&hsa_tgt=dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=google&hsa_ver=3&gad_source=1&gad_campaignid=11384329873&gbraid=0AAAAADpqZICk0MzLro-t3DLjYjxFyjzVj&gclid=EAIaIQobChMIxpD8vsaejwMVlQ9ECB1L1x5IEAAYASAAEgLF9PD_BwE">Alura</a></li>
 <li><a href="https://www.notion.com/">Notion</a></li>
-<li>Biblioteca Retrofit</li>
+<li>Library Retrofit</li>
