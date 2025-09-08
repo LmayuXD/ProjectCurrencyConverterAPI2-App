@@ -15,10 +15,10 @@
 <p>This project has been made at Senac Londrina North , with the help of Professor <a href="https://github.com/leonardossrocha">Leonardo Rocha</a>.</p>
 <p>We used some Git commands to develop the project. For example, we use <b>"git init"</b> to create an blank local repository, and <b>"git remote add origin"</b> to connect the local repository to the remote repository.</p>
 <p>We also used some simple commands to push updates from the local repository to the remote repository, such as: 
-  <li><b>"git add"</b> para selecionar o arquivo à ser enviado;</li>
-  <li><b>"git commit -m"</b> para adicionar uma mensagem descritiva sobre o/s arquivo/s selecionado/s;</li>
-  <li><b>"git push"</b> envia os arquivos do repositório local para o repositório remoto;</li>
-  <li><b>"git pull"</b> resgata os arquivos do repositório remoto e envia para o repositório local.</li></p>
+  <li><b>"git add"</b> -> Was used for seleting a file to be sent;</li>
+  <li><b>"git commit -m"</b> -> Is for adding a descriptive message to the selected files;</li>
+  <li><b>"git push"</b> -> Send the files from the local repository to the remote repository;</li>
+  <li><b>"git pull"</b> -> Retrieve the files from the remote repository and send them to the local repository.</li></p>
 
 ## Tecnologias
 <li>ExchangeRate API</li>
