@@ -45,3 +45,4 @@
 <li><a href="https://www.notion.com/">Notion</a></li>
 <li>Retrofit library</li>
 <li>ArrayAdapter -> Works like a bridge to an array for a component.</li>
+<li>Enqueue retrofit</li>
