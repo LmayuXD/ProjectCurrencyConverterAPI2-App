@@ -34,7 +34,7 @@
 <li><b>RetrofitCliente.java</b> A class responsible for configuring and providing an instance of Retrofit.</li>
 <li><b>MainActivity.java</b>: It is a class that represents the main activity of the Android application.</li>
 <li><b>ExchangeRateService.java</b>: Responsible for the interface of the project.</li>
-<li><b>actibity_main.xml</b>: It is used to show the desing of the project.</li>
+<li><b>activity_main.xml</b>: It is used to show the desing of the project.</li>
 
 ## Authors
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/180124583?v=4" width=115><br><sub>Letícia Feitoza</sub>](https://github.com/LmayuXD)|
